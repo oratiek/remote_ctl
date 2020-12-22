@@ -1,0 +1,7 @@
+ls : file check
+cd : no implimentation, use ls ../ to navigate
+pwd : check current directory
+tree : no implimentation on Mac, create original command by shell script
+python : run with original program to be isolated from the original python command
+
+
